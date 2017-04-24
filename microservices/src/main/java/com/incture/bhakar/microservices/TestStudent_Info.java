@@ -12,6 +12,7 @@ public class TestStudent_Info {
 	//
 	// StudentAddress studentAddress = new StudentAddress();
 	// studentAddress.setAddress("BLR India");
+	
 	//
 	// Student_Info sInfo = new Student_Info();
 	// // sInfo.setsId("101");
