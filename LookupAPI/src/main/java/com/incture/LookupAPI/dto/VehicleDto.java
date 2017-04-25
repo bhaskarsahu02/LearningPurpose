@@ -4,7 +4,6 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 public class VehicleDto {
-	//this is my second commit
 	private String vId;
 	private String vehicleName;
 	private String yearOfManu;
